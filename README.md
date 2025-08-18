@@ -3,11 +3,13 @@
 - 📖 Cursando ciencia da computação 
 
 
-- 🌱 Estudando front-end
+- 🌱 Estudando programação com java
+- 
   
 - 💼 Procurando trabalho na área
   
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.gabriel_sobral)
+
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
